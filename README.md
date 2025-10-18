@@ -20,7 +20,7 @@ It contains organized folders, evidence, and reflections for each work readiness
 - Module: Project Presentation
 ----
 🗣️ Business Communication
-- Evidence: [See file](business-communication/evidence.png)
+- Evidence: [See file](business-communication/evidence.PNG)
 - Reflection (STAR): [Read reflection](business-communication/reflection.md)
 ----
 💼 Interview Skills
