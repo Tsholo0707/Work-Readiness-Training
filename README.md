@@ -20,21 +20,20 @@ It contains organized folders, evidence, and reflections for each work readiness
 - Module: Project Presentation
 ----
 🗣️ Business Communication
-- Evidence: [See file](business-communication/evidence.PNG)
+- Evidence: [See evidence](business-communication/evidence.PNG)
 - Reflection (STAR): [Read reflection](business-communication/reflection.md)
 ----
 💼 Interview Skills
-- Evidence: [See file](interview-skills/evidence.png)
+- Evidence: [See evidence](interview-skills/evidence.png)
 - Reflection (STAR): [Read reflection](interview-skills/reflections.md)
 ----
 🎥 Mock Interview Video
-- Evidence: [See file](mock-interview-video)
-- Reflection (STAR): [Read reflection](mock-interview-video)
+- Video: [See video](mock-interview-video)
 ----
 🌐 Professional Networking
-- Evidence: [See file](professional-networking/evidence.png)
+- Evidence: [See evidence](professional-networking/evidence.png)
 - Reflection (STAR): [Read reflection](professional-networking/reflection.md)
 ----
 🤝 Workplace Etiquette
-- Evidence:[See file](workplace-etiquette/evidence.png)
-- Reflection (STAR): [Read reflection](workplace-etiquette/reflection.md)
+- Evidence:[See evidence](workplace-etiquette/evidence.PNG)
+- Reflection (STAR): [Read reflection](workplace-etiquette/reflections.md)
