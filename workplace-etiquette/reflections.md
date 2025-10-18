@@ -3,16 +3,16 @@
 
 **Situation:**
 
-The professional networking task emphasized the value of building and maintaining meaningful professional connections in one's career journey.
+The workplace etiquette task focused on understanding appropriate behavior, communication, and professionalism in a work environment.
 
 **Task:**
 
-My goal was to understand how to build professional network and create a plan for developing and managing my online presence. How to introduce myself to the industry and practise talking witha professional from the industry.
+My task was to learn how to adapt to different workplace cultures and demonstrate respectful and professional conduct at all times.
 
 **Action:**
 
-I explored strategies for networking through digital platforms like LinkedIn. I updated my LinkedIn profile and engaged with content relevant to IT, software development and data analytics.
+I learned about time management, teamwork, conflict resolution, and respecting diversity in the workplace. I also reflected on scenarios showing good and poor etiquette and identified how to respond appropriately in professional settings.
 
 **Results:**
 
-Through this task, I learned that network is a continuous process that supports career development. I now understand professional network and understand how to maintain relationships by communicating respectfully and adding value to my conections. I learned that I need to reach out to my network and that networks require upkeep.
+After completing this topic, I feel more prepared to enter a professional environment. I now understand how to maintain respect, professionalism, and accountability in any workplace situation.
