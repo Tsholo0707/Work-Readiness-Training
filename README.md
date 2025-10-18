@@ -25,7 +25,7 @@ It contains organized folders, evidence, and reflections for each work readiness
 ----
 💼 Interview Skills
 - Evidence: [See file](interview-skills/evidence.png)
-- Reflection (STAR): [Read reflection](interview-skills/reflection.md)
+- Reflection (STAR): [Read reflection](interview-skills/reflections.md)
 ----
 🎥 Mock Interview Video
 - Evidence: [See file](mock-interview-video)
