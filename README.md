@@ -31,7 +31,7 @@ It contains organized folders, evidence, and reflections for each work readiness
 - Video: [See video](mock-interview-video)
 ----
 🌐 Professional Networking
-- Evidence: [See evidence](professional-networking/evidence.png)
+- Evidence: [See evidence](professional-networking/evidence.PNG)
 - Reflection (STAR): [Read reflection](professional-networking/reflection.md)
 ----
 🤝 Workplace Etiquette
