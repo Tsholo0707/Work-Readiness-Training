@@ -13,27 +13,27 @@ It contains organized folders, evidence, and reflections for each work readiness
 👤 Student Details
 - Student Name: Tsholofelo
 - Student Surname: Mabidikane
-- Student Number: 230601774
+- Student Number: 230018164
 - Course: Information and Communication Technology
 - Stream: Applications Development
 - Module: Project Presentation
 ----
-🧭 Business Communication
+🗣️ Business Communication
 - Evidence: See file
 - Reflection (STAR): Read reflection
 ----
-🛠️ Interview Skills
+💼 Interview Skills
 - Evidence: See file
 - Reflection (STAR): Read reflection
 ----
-🧬 Mock Interview Video
+🎥 Mock Interview Video
 - Evidence: See file
 - Reflection (STAR): Read reflection
 ----
-📄 Professional Networking
+🌐 Professional Networking
 - Evidence: See file
 - Reflection (STAR): Read reflection
 ----
-📄 Workplace Etiquette
+🤝 Workplace Etiquette
 - Evidence:
 - Reflection (STAR): Read reflection
